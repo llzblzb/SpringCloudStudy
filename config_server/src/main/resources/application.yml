@@ -8,7 +8,7 @@ spring:
       server:
         git:
           # 这里填写的是本地仓库地址，远程仓库直接填写远程仓库地址 http://git...
-          uri: https://github.com/llzblzb/springcloudstudy.git
+          uri: https://github.com/llzblzb/SpringCloudStudy.git
           # 默认分支设定为你自己本地或是远程分支的名称
           default-label: main
 eureka:
